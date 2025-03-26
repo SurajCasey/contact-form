@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <ContactUs/>
+      <h1>Hello mamama</h1>
     </>
   )
 }
