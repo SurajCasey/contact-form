@@ -5,8 +5,7 @@ function App() {
 
   return (
     <>
-      
-      <h1>Hello mamama</h1>
+      <ContactUs/>
     </>
   )
 }
