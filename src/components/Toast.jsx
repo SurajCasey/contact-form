@@ -1,5 +1,5 @@
 import React from 'react'
-import TickImg from '../../assets/images/icon-success-check.svg'
+import TickImg from '../assets/images/icon-success-check.svg'
 
 
 const Toast = () => {

@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Karla';
-  src: url(../assets/fonts/Karla-VariableFont_wght.ttf) format('truetype');
+  src: url(/src/assets/fonts/Karla-VariableFont_wght.ttf) format('truetype');
 }
 
 @theme{

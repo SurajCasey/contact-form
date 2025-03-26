@@ -1,5 +1,5 @@
 import React from "react";
-import Checkimg from "../../assets/images/icon-checkbox-check.svg";
+import Checkimg from "../assets/images/icon-checkbox-check.svg";
 
 const Checkbox = ({ id, name, value, label, checked, onChange }) => {
   return (

@@ -9,8 +9,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solutioin URL](https://github.com/SurajCasey/contact-form)
+- Live Site URL: [Live site](https://surajcasey.github.io/contact-form/)
 
 
 ### Built with
