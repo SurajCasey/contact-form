@@ -1,6 +1,4 @@
-import { useState } from 'react'
 import ContactUs from './ContactUs'
-
 import './index.css'
 
 function App() {

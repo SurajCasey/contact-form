@@ -1,5 +1,5 @@
 import React from 'react';
-import Radioimg from '../../assets/images/icon-radio-selected.svg';
+import Radioimg from '../assets/images/icon-radio-selected.svg';
 
 const Radio = ({ id, name, value, label, checked, onChange }) => {
   return (
