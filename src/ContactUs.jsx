@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Toast from './components/Toast'
 import Radio from './components/Radio'
-import Checkbox from './components/checkbox'
+import Checkbox from './components/Checkbox'
 import Textfield from './components/Textfield'
 import Submit from './components/Submit'
 
