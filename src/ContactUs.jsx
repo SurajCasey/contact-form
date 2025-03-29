@@ -128,7 +128,7 @@ const ContactUs = () => {
               <h2>Query Type *</h2>
               <div className='flex flex-col gap-4 md:flex-row'>
               <Radio
-                id='General Enquiry'
+                id='GeneralEnquiry'
                 name="queryType"
                 value= 'General Enquiry'
                 label= 'General Enquiry'
@@ -136,7 +136,7 @@ const ContactUs = () => {
                 onChange={handleChange}
               />
                <Radio
-                id='Support Request'
+                id='SupportRequest'
                 name="queryType"
                 value= 'Support Request'
                 label= 'Support Request'
